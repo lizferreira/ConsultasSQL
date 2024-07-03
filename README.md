@@ -51,3 +51,7 @@ DisplayName,Age,Reputation
 
 Para ejecutar las consultas, simplemente ejecute cada archivo `.sql` en una base de datos (Microsoft SQL Server Management Studio)
 
+### Herramientas utilizadas 
+- SQL Server 2022
+- Microsoft SQL Server Management Studio 20
+- Base de datos StackOverflow2010 [2008-2010]
