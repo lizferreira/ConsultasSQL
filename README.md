@@ -55,3 +55,4 @@ Para ejecutar las consultas, simplemente ejecute cada archivo `.sql` en una base
 - SQL Server 2022
 - Microsoft SQL Server Management Studio 20
 - Base de datos StackOverflow2010 [2008-2010]
+`Obs`: Algunos resultados de consultas estan comprimidos debido al tamanho del archivo `csv`
